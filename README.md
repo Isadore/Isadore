@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isadore&exclude_repo=misinformation_extension_server)](https://github.com/Isadore/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isadore&exclude_repo=misinformation_extension_server&size_weight=0.5&count_weight=0.5)](https://github.com/Isadore/)
